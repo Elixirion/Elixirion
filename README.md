@@ -1,4 +1,4 @@
-### Hi there ![hey](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFlYWE5OWNmZGZjYWUxMmJjYzI4MTk3ZWQ1YzEyN2JkZGRkZmFmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jsHXlTn1O2NOuAHB7A/giphy.gif)
+### Hi there 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elixirion&repo=github-readme-stats)](https://github.com/Elixirion/github-readme-stats)
 
