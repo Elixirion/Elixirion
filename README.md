@@ -18,10 +18,6 @@ src="https://img.shields.io/github/followers/Elixirion?logo=github&style=for-the
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Elixirion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 
 <b>My GitHub Stats</b>
 
