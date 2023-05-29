@@ -1,4 +1,6 @@
-Code Explorer
+# Hello Everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+![](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif) 
 -------------
 
 I'm a curious explorer delving into the realms of data science, machine learning, deep learning, AI, and everything intriguing. From unraveling patterns in data to creating intelligent algorithms, I'm driven by a quest for knowledge and a passion for pushing the boundaries of what's possible. But my interests don't stop there. I also believe in the power of mental health and well-being. I strive for a harmonious balance between coding and self-care, recognizing that a healthy mind fuels creativity and innovation. Join me on an exciting journey as we use our coding skills to shape the future together! Let's explore endless possibilities and create something remarkable✨
